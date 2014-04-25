@@ -1,0 +1,18 @@
+1. Download and unzip the script.
+
+2. Create a MySQL Database.
+
+3. Open xoo-config.php file and replace the Database credentials with yours.
+
+4. Upload all the files to your server.
+
+5. Run XooScripts Wizard. For example (http://www.yourdomain.com/setup/)
+
+6. Set 777 privileges to the xoomedia folder. 
+
+7. All done!
+
+
+--------
+Admin Panel : (http://www.yourdomain.com/admin/)
+Sign Page: (http://www.yourdomain.com/user_signup.php)

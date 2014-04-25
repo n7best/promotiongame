@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+.control-group .buttn{ width:100%; margin:20px 0 0 0 }
+.control-group .buttn ul{ width:162px;margin:0 auto 0 auto; padding:0px 0px 0px 10px}
+.control-group .buttn li{ width:162px; height:29px; list-style:none; margin:0 0 0 0; padding:5px 0 0 0; text-align:center  }
+.control-group .buttn li.face{  list-style:none; margin:5px 0 0 0;padding:4px 0 0 20px;  background: url(../img/facebook.png) no-repeat; }
+.control-group .buttn li.face a{ color:#FFF;font-size:0.9em }
+.control-group .buttn li.face a:hover{ color:#FFF; text-decoration:none; font-size:0.9em ; }
+
+.control-group .buttn li.goog{  list-style:none; margin:5px 0 0 0;padding:4px 0 0 5px;  background: url(../img/google.png) no-repeat }
+
+.control-group .buttn li.goog a{ color:#FFF;font-size:0.9em }
+.control-group .buttn li.goog a:hover{ color:#FFF; text-decoration:none; font-size:0.9em ; }
+
+
+.control-group .buttn li.yah{ list-style:none; margin:5px 0 0 0;padding:4px 0 0 0; background: url(../img/yahoo.png) no-repeat }
+.control-group .buttn li.yah a{ color:#FFF;font-size:0.9em }
+.control-group .buttn li.yah a:hover{ color:#FFF; text-decoration:none; font-size:0.9em ; }
+
+.control-group .buttn li.lin{ list-style:none; margin:5px 0 0 0;padding:4px 0 0 18px; background: url(../img/linkedin.png) no-repeat }
+.control-group .buttn li.lin a{ color:#FFF;font-size:0.9em }
+.control-group .buttn li.lin a:hover{ color:#FFF; text-decoration:none; font-size:0.9em ; }
